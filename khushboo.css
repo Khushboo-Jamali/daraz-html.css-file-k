@@ -1,0 +1,68 @@
+body{
+
+padding: auto;
+margin: auto;
+background-color:orangered ;
+
+}
+
+.header ul li
+ {
+    color:white;
+    background-color: darkblue;
+text-decoration: double;
+font-size: large;
+
+
+}
+
+
+
+
+
+img{
+
+    width: 900px;
+    height: 600px;
+    margin-left: 99px;
+
+
+
+}
+
+
+
+
+
+div h2{
+   color:rgba(255, 68, 0, 0.966);
+   width: 200px;
+   border: 1px;
+   border-color:rgba(255, 68, 0, 0.966);
+   border-style:double;
+   border-width: 5px;
+   padding: 11px;
+   margin: auto;
+   text-align: center;
+
+}
+
+
+
+div ul li{
+    color:orange;
+    background-color: orangered;
+    padding: 10px;
+    margin: 130px;
+    margin-left: 170px;
+    display: inline;
+    text-align: center;
+ 
+}
+
+button{
+    font-size:medium;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+
+}
